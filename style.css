@@ -1,0 +1,151 @@
+body{
+	text-align: center;
+	margin:0;
+	padding:0;
+	height:100%
+}
+
+h3{
+	font-family: AvenirNext,Avenir,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	color: #4C4C4C;
+	line-height: 1.1;
+	font-size: 24px;
+}
+
+h5{
+	color: #4C4C4C;
+	font-size: 14px;
+}
+
+h6{
+	margin:0;
+	padding:0;
+	font-size: 10px;
+	color: #444;
+	font-family: 'AvenirNext',Avenir,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.container{
+	min-height:100%;
+	position:relative;
+	background: #eceef1;
+}
+
+.header{
+	float: none;
+	padding: 10px 30px 10px 30px;
+	height: 60px;
+}
+
+.headertitle{
+	height:30px;
+	text-align: center;
+	color:gray;
+	padding-bottom: 20px;
+}
+
+.form{
+	border-radius: 3px;
+	background: white;
+	border:1px solid black;
+	border-bottom: 1px solid black;
+	height:700px;
+	width:400px;
+	margin:0 auto;
+}
+
+.footer {
+	background: #eceef1;
+	position:absolute;
+	width:100%;
+	text-align: center;
+	font-size: 12px;
+}
+
+.headertext{
+	display:inline;
+	font-size:11px;
+	float: right;
+	font-family: 'AvenirNext',Avenir,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-weight: normal;
+	color: #505050;
+	padding-right: 5px;
+}
+
+.button{
+	display: inline;
+	background: #0077c5;
+	border-radius: 4px;
+	border: 1px solid #4c4c4c;
+	float:right;
+	height:30px;
+	width:110px;
+	color: white;
+	cursor: pointer;
+	font-size: 1.125em;
+	font-weight: normal;
+}
+
+.formbutton{
+	margin:0 auto;
+	background: #0077c5;
+	border-radius: 4px;
+	border: 1px solid #4c4c4c;
+	height:40px;
+	width:300px;
+	color: white;
+	cursor: pointer;
+	font-size: 1.125em;
+	font-weight: normal;
+	margin-top:15px;
+	position:relative;
+	right:55px;
+	margin-bottom: 40px;
+	left:0px;
+}
+
+.icons{
+	padding-top: 10px;
+}
+
+.formheader{
+	margin:0 auto;
+	width:90%;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	border-bottom:1px solid black;
+}
+
+.formheadertext{
+	display: inline;
+	font-size:14px;
+	position: relative;
+	bottom:10px;
+	font-family: 'Helvetica Neue',Helvetica,Arial,'Lucida Grande',sans-serif;
+}
+
+.formfooter{
+	font-style: italic;
+	color: #bbb;
+	font-size: 12px;
+}
+
+form{
+	margin:10px;
+}
+
+label{
+	margin-top: 10px;
+	float:left;
+	padding-left: 20px;
+	font-weight: 400;
+	color: #404040;
+	font-size: 14px;
+	line-height: 25px;
+	font-family: 'AvenirNext',Avenir,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+input{
+	margin-top: 10px;
+	width:80%;
+}
