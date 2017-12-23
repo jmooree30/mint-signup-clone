@@ -152,4 +152,11 @@ input{
 
 .profile{
 	float:left;
+	padding-top: 20px;
+	display:inline;
+}
+
+img{
+	float: left;
+	border-radius: 50%;
 }
